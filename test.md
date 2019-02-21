@@ -13,12 +13,21 @@ Writing **text** in fat and bold? Using __double Underscores__!
 
 ### Testing enumeration in this section.
 
-*1Point to consider
-*2Another point to consider
+1. First Point
+2. Another item
+  * unordered sub-list
+1. Numbers doesnt matter *__HAHAHA__*!
 
-### Intendend block testing area.
+   Schalalalalalalalalalalalalalala
 
-   Intendend block of text was used **in this case**.
+   Schalalalalalalalalalalalalalala
+
+
+### Indented block testing area.
+
+1. First ordered item
+
+   Indended block of text was used **in this case**.
    In general, this stuff is pretty awesome.
 
    Begin new block here. Next time, i should test/use a kind of a warning message box.
