@@ -11,12 +11,8 @@ Writing **text** in fat and bold? Using __double Underscores__!
 
 *__Scratch some?__* Use double ~~tildes~~.
 
- *Unordered List Item 1
- *Unordered List Item 2
-
 1. We have another item 1
 2. This is another fucking item
-  *Sub-List
 
    Intendend block of text was used **in this case**.
 
