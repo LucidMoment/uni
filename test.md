@@ -1,4 +1,4 @@
-# This is a test header!
+# This Is A Test Header!
 
 ## This is a header one level below.
 
@@ -11,8 +11,8 @@ Writing **text** in fat and bold? Using __double Underscores__!
 
 *__Scratch some?__* Use double ~~tildes~~.
 
-*Unordered List Item 1
-*Unordered List Item 2
+¨*Unordered List Item 1
+¨*Unordered List Item 2
 
 1. We have another item 1
 2. This is another fucking item
@@ -30,3 +30,4 @@ example.com (but not on Github, for example).
 s = "Python syntax highlighting"
 print(s)
 ```
+
