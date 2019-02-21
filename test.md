@@ -11,8 +11,8 @@ Writing **text** in fat and bold? Using __double Underscores__!
 
 *__Scratch some?__* Use double ~~tildes~~.
 
-1. We have another item 1
-2. This is another fucking item
+* Point to consider
+*  Another point to consider
 
    Intendend block of text was used **in this case**.
 
